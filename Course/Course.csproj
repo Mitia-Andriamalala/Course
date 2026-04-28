@@ -12,6 +12,14 @@
     <!-- Permet la compilation depuis Linux/macOS pour vérifier la syntaxe.
          L'exécution n'est cependant possible que sur Windows. -->
     <EnableWindowsTargeting>true</EnableWindowsTargeting>
+
+    <!-- Métadonnées du projet -->
+    <Authors>Razanadrakoto Andrimalala Mitia</Authors>
+    <Company>Razanadrakoto Andrimalala Mitia</Company>
+    <Product>Course</Product>
+    <Description>Jeu de simulation de course de voitures en C# WinForms</Description>
+    <Copyright>Copyright (c) 2026 Razanadrakoto Andrimalala Mitia</Copyright>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
