@@ -1,0 +1,9 @@
+# Liste des voitures disponibles dans le jeu
+# Format : Nom|CapaciteAcceleration(km/h/s)|VitesseMax(km/h)|Description|CheminImage
+# Les lignes vides et celles commençant par # sont ignorées.
+
+Renault Clio|8|160|Citadine fiable et économique, idéale pour débuter.|
+Peugeot 308|10|200|Compacte polyvalente avec un bon équilibre puissance/confort.|
+Audi RS6|15|280|Break sportif allemand, accélération brutale.|
+Ferrari F40|18|324|Supercar légendaire des années 90, sensations garanties.|
+Bugatti Chiron|25|420|Hypercar de prestige, l'expérience ultime.|

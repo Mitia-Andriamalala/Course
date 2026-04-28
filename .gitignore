@@ -1,0 +1,26 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Compiled binaries (regénérés à la compilation)
+*.exe
+*.pdb
+
+# IDE / éditeurs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+
+# Backups
+*.bak
+
+# Outils locaux
+.qodo/
