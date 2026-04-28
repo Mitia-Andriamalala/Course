@@ -2,6 +2,9 @@
 
 Jeu de simulation de course de voitures en C# WinForms. Compatible Windows (.NET 8) et Linux (mono).
 
+**Auteur : Razanadrakoto Andrimalala Mitia**
+Copyright (c) 2026 — Tous droits réservés. Voir [LICENSE](LICENSE).
+
 ## Lancer le projet
 
 ### Linux
