@@ -24,3 +24,19 @@ Thumbs.db
 
 # Outils locaux
 .qodo/
+
+# Notes / brouillons / fichiers persos (jamais pousses)
+note.txt
+notes.txt
+notes/
+NOTES
+NOTES.md
+NOTES.txt
+TODO
+TODO.md
+TODO.txt
+*.notes
+*.local
+private/
+.private/
+brouillon/
